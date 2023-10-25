@@ -2,14 +2,24 @@
 
 - 👋 Hola, Mi nombre es Miguel Ciriano
 - 👀 Soy un español apasionado del mundo de los datos residiendo actualmente en Chile
-- 🌱 Siempre trato de estar en continuo apredizaje, por lo que aquí encontrarás diferentes proyectos que voy realizando de manera autodidacta
-- 💞️ Explora, aprende y siéntete libre de contribuir o comentar. ¡Espero que encuentres estos proyectos útiles e inspiradores en tu propio viaje
+- 🌱 Siempre estoy en continuo apredizaje, por lo que aquí encontrarás diferentes proyectos que voy realizando de manera autodidacta
+- 💞️ Explora, aprende y siéntete libre de contribuir o comentar. ¡Espero que encuentres estos proyectos útiles e inspiradores en tu            propio viaje!
 - 📫 Puedes encontrarme por aquí o si lo deseas puedes escribirme a mciriano90@gmail.com
 
+# ABOUT ME
+
+- 👋 Hello, my name is Miguel Ciriano.
+- 👀 I'm a Spanish data enthusiast currently residing in Chile.
+- 🌱 I always strive to be in continuous learning, so here you'll find various projects that I'm working on as a self-taught learner.
+- 💞️ Explore, learn, and feel free to contribute or comment. I hope you find these projects useful and inspiring on your own journey.
+- 📫 You can find me here, or if you prefer, you can reach out to me at mciriano90@gmail.com.
+
 ## RRSS:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-ciriano-martin/)
 
 ## TECNOLOGÍAS:
+
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -23,4 +33,3 @@
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
