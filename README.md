@@ -9,7 +9,8 @@
 ## SOCIAL MEDIA 🌏:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-ciriano-martin/)
-https://www.kaggle.com/miguelciriano
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/miguelciriano)
+
 
 ## TECNOLOGIES 📊:
 
