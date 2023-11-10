@@ -1,10 +1,20 @@
 # ABOUT ME
 
 - 👋 Hello, my name is Miguel Ciriano.
-- 👀 I'm a Spanish data enthusiast currently residing in Chile.
+- 👀 I'm a Spanish data enthusiast currently living in Chile.
 - 🌱 I always strive to be in continuous learning, so here you'll find various projects that I'm working on as a self-taught learner.
-- 💞️ Explore, learn, and feel free to contribute or comment. I hope you find these projects useful and inspiring on your own journey.
-- 📫 You can find me here, or if you prefer, you can reach out to me at mciriano90@gmail.com.
+- ✨ Explore, learn, and feel free to contribute or comment. I hope you find these projects useful and inspiring on your own journey.
+- 📫 ou can find me here, or if you prefer, you can contact me directly at mciriano90@gmail.com.
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+# SOBRE MI
+
+- 👋 Hola, mi nombre es Miguel Ciriano.
+- 👀 Soy un español apasionado de los datos viviendo actualmente en Chile.
+- 🌱 Siempre me esfuerzo por estar en continuo aprendizaje, por eso aquí encontrarás varios proyectos en los que estoy trabajando de forma autodidacta.
+- ✨ Explora, aprende y siéntete libre de contribuir o comentar. Espero que estos proyectos te resulten útiles e inspiradores en tu propio viaje.
+- 📫 Puedes encontrarme aquí, o si lo prefieres, puedes comunicarte conmigo directamente en mciriano90@gmail.com.
 
 ## SOCIAL MEDIA 🌏:
 
